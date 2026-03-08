@@ -86,8 +86,8 @@ body {
 }
 
 img, a, button, h1, h2, h3, h4, h5, h6, span, p {
-  transition: 100ms ease;
-  -webkit-transition: 100ms ease;
+  transition: 10ms ease;
+  -webkit-transition: 10ms ease;
   text-decoration: none;
 }
 
@@ -2035,7 +2035,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   transition: 0.4s ease-in-out;
 }
 .chy-pr-btn-4:hover {
-  background-color: transparent;
+  background-color: #0D0D0D;
   color: var(--chy-pr-3);
 }
 .chy-pr-btn-4:hover::after {
@@ -7329,7 +7329,7 @@ header innter
 }
 
 .chy-price-3-item {
-  background: #fff;
+  background: #146EA6;
   border-radius: 20px;
   position: relative;
   z-index: 1;
