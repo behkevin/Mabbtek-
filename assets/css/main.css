@@ -66,7 +66,7 @@ CSS INDEX
   --white-color: #fff;
   --chy-pr-1: #A249ED;
   --chy-pr-2: #ee4619;
-  --chy-pr-3: #27f67a;
+  --chy-pr-3: #104D73;
   --chy-pr-4: #9255CE;
   --chy-sd-1: #7237E9;
   --chy-h1-color: #141515;
@@ -2015,7 +2015,7 @@ input:focus::placeholder, textarea:focus::placeholder {
   font-weight: 900;
   font-family: var(--urbanist);
   text-transform: capitalize;
-  color: #262420;
+  color: #F2F2F2;
   background: var(--chy-pr-3);
   padding: 10px 31px;
   border-radius: 4px;
@@ -3095,7 +3095,7 @@ header 3
 .chy-header-3-area {
   padding: 22px 0;
   border-bottom: 10px solid #121212;
-  background-color: #fff;
+  background-color: #F2F2F2;
 }
 .chy-header-3-wrap {
   max-width: 1720px;
@@ -5527,7 +5527,7 @@ header innter
   }
 }
 .chy-services-4-item .main-img {
-  width: 100%;
+  width: 40%;
   height: 145px;
   overflow: hidden;
   border-radius: 300px;
